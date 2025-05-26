@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Skaryus
 - 👀 I’m interested in Pyhsics, AI, Electronics, Mechanical Enginering.
-- 🌱 I’m currently learning Flutter,Dart and UI-UX Desing to create good-looking with fine performance mobile apps to get my finacial freedom.
+- 🌱 I’m currently learning Flutter,Dart and UI-UX Desing to create good-looking with fine performance mobile apps.
 - 💞️ I’m looking not to collaborate on anyhing for now :)
 - 📫 You can reach me with telekinesis.
 
